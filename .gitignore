@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.tox/
+.mypy_cache/
+*.egg-info/
+build/
+dist/
+.coverage
+coverage.xml
+
+# ОС/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
